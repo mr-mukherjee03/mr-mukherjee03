@@ -1,6 +1,6 @@
 # Hi, I'm Shubhadeep Mukherjee 👋
 
-Student at **IIEST Shibpur**, based in **Kolkata, India**. I build backend systems and AI applications: multi-agent RAG pipelines, REST APIs, and deep learning for medical imaging.
+Engineer, based in **Kolkata, India**. I build backend systems and AI applications: multi-agent RAG pipelines, REST APIs, and deep learning for medical imaging.
 
 ## 🛠️ Tech Stack
 

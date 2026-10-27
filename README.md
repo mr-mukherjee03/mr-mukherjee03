@@ -30,10 +30,15 @@ Engineer, based in **Kolkata, India**. I build backend systems and AI applicatio
 | [**Library Management System**](https://github.com/mr-mukherjee03/Library-Management-System) | REST API with JWT auth for managing books, authors, and borrowing records | FastAPI, SQLAlchemy |
 | [**Agentic Financial Auditor**](https://github.com/mr-mukherjee03/Agentic-Financial-Auditor) | Agent-based financial auditing | Python |
 
-## 📊 GitHub Stats
+## 📊 Work at voxket.ai
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mr-mukherjee03&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mukherjee03&layout=compact&theme=tokyonight&hide_border=true)
+My activity in the [voxket-ai](https://github.com/voxket-ai) organization since October 2025.
+
+![Commits](https://img.shields.io/badge/Commits-1%2C899-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-598-8957e5?style=for-the-badge&logo=github&logoColor=white)
+![Merged](https://img.shields.io/badge/PRs_Merged-589-0969da?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<sub>Most of this work is in private repositories, so it doesn't appear in the contribution graph. Figures as of October 2026.</sub>
 
 ## 📫 Connect
 
